@@ -34,7 +34,7 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir los c
 ## 📄 Licencia
 
 
-desarrollado por PoliXDev
-Daniel Ruiz Poli
+desarrollado por Daniel Ruiz Poli aka PoliXDev
+
 danielruizpoli368@gmail.com
-Estudiante academia conquerblocks
+Estudiante  academia Conquerblocks
