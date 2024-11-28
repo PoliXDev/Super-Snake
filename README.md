@@ -36,5 +36,5 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir los c
 
 desarrollado por PoliXDev
 Daniel Ruiz Poli
-danielruizpoli@gmail.com
+danielruizpoli368@gmail.com
 Estudiante academia conquerblocks
