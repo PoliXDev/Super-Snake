@@ -15,14 +15,6 @@ Requisitos
 - Python 3.x
 - Pygame
 
-## 📦 Instalación
-1. Clona el repositorio:
-
-2. Usa las teclas de dirección para mover la serpiente
-3. Come la comida para crecer y ganar puntos
-4. Evita chocar contra las paredes y contra ti mismo
-
-
 
 
 Desarrollado por Daniel Ruiz Poli aka PoliXDev
