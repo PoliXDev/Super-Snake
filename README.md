@@ -1,23 +1,25 @@
 Super Snake
 
-## Descripción
-Super Snake es una versión moderna del clásico juego Snake, desarrollado en Python utilizando la biblioteca Pygame. El jugador controla una serpiente que debe comer alimentos para crecer mientras evita chocar contra las paredes y contra sí misma.
+Description
+Super Snake is a modern take on the classic Snake game, developed in Python using the Pygame library. The player controls a snake that must eat food to grow while avoiding collisions with the walls and itself.
 
- Características
-- Controles fluidos con las teclas de dirección
-- Sistema de puntuación
-- Efectos de sonido
-- Incremento gradual de la dificultad
-- Interfaz gráfica moderna
+Features
+Smooth controls using the arrow keys
 
-Requisitos
+Scoring system
 
-- Python 3.x
-- Pygame
+Sound effects
 
+Gradual difficulty increase
 
+Modern graphical interface
 
-Desarrollado por Daniel Ruiz Poli aka PoliXDev
+Requirements
+Python 3.x
 
-danielruizpoli368@gmail.com
-Estudiante  academia Conquerblocks
+Pygame
+
+Developed by Daniel Ruiz Poli a.k.a. PoliXDev
+📧 danielruizpoli368@gmail.com
+🎓 Student at Conquerblocks Academy
+
